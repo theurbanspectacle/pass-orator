@@ -1,16 +1,17 @@
 # pass-orator
 
-## The Craigslist of password generators. It's simply designed, just like craigslist, and does what it needs to do. 
+## The password generator! It's simply designed and does what you need to do!  
 
 - Password Generator. Pass-Orator!
+- This project uses functions via JavaScript to generate a random password based on the selections you choose.
 
 ## Usage
 
-- Click the button then answer some questions to get what you need.
+- Click the button and answer some questions to generate a password.
 
-```md
-    ![Picture of website](./assets/images/Preview.png)
-    ```
+
+![Picture of website](/assets/images/PassOrator%20Preview.png)
+
 
 ## Badges
 🏆
